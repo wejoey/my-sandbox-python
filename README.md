@@ -1,1 +1,7 @@
-My sandbox to play with python.
+My personal python sandbox.
+
+Todo list
+
+- pandas
+- seaborn
+- matplotlib
