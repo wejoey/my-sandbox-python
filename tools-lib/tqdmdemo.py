@@ -1,5 +1,7 @@
-from tqdm import tqdm
+"""demo usage of tqdm"""
+
 from time import sleep
+from tqdm import tqdm
 
 for i in tqdm(
     range(80), desc="Loading... (ascii=False, ncols=75)", ascii=False, ncols=80
